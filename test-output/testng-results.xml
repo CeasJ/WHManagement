@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T19:33:53 ICT" name="Default suite" finished-at="2023-04-18T19:34:18 ICT" duration-ms="24303">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T19:33:53 ICT" name="Default test" finished-at="2023-04-18T19:34:18 ICT" duration-ms="24303">
+      <class name="com.QLK.test.LoginAutomation">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.QLK.test.LoginAutomation@75d3a5e0]" started-at="2023-04-18T19:33:53 ICT" name="launchBrowser" finished-at="2023-04-18T19:33:58 ICT" duration-ms="4058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:com.QLK.test.LoginAutomation@75d3a5e0]" started-at="2023-04-18T19:33:58 ICT" name="verifyHomepageTitle" finished-at="2023-04-18T19:34:18 ICT" duration-ms="20192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+      </class> <!-- com.QLK.test.LoginAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

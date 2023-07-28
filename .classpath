@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/AbsoluteLayout-RELEASE170.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/mssql-jdbc-10.2.1.jre17.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/poi-3.14.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/selenium-java-4.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/selenium-java-4.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/FPT Polytechnic/Kho hoc lieu/19. Kiem thu nang cao/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
